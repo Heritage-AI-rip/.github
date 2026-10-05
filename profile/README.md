@@ -4,7 +4,7 @@
 
 **Your digital assets, to the right people.**
 
-[Website](https://heritage.rip/en.html) · [Apps](https://github.com/Heritage-AI-rip/heritage-apps) · [YouTube](https://www.youtube.com/@Heritage-AI-Rip)
+[Website](https://heritage.rip/en.html) · [Watch the film](https://heritage.rip/en.html#film) · [Apps](https://github.com/Heritage-AI-rip/heritage-apps) · [YouTube](https://www.youtube.com/@Heritage-AI-Rip)
 
 </div>
 
@@ -14,8 +14,8 @@ Heritage AI is an end-to-end encrypted digital safe. It protects passwords, pass
 
 **One product, two moments.**
 
-- **Personal Recovery** — while you are alive: if you lose your credentials and devices, you can regain access through a deliberately slow, verified process, with multi-channel alerts and an identity check. With one surviving authorized device, you re-enter immediately.
-- **Inheritance** — afterwards: you decide who receives what. Delivery to your beneficiaries is governed by a cryptographic time-lock on a decentralized network, not by a person.
+- **Personal Recovery**, while you are alive: if you lose your credentials and devices, you can regain access through a deliberately slow, verified process, with multi-channel alerts and an identity check. With one surviving authorized device, you re-enter immediately.
+- **Inheritance**, afterwards: you decide who receives what. Delivery to your beneficiaries is governed by a cryptographic time-lock on a decentralized network, not by a person.
 
 While your account is active, Heritage cannot read the contents of your vault.
 
@@ -25,11 +25,11 @@ Official builds are published on the [heritage-apps](https://github.com/Heritage
 
 | Platform | Status |
 | --- | --- |
+| iOS | Available |
+| macOS | Available |
 | Android | Available |
 | Web app (PWA) | Available |
 | Windows | Available |
-| iOS | Coming soon |
-| macOS | Coming soon |
 
 ## Contact
 
