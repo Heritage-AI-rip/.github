@@ -8,6 +8,8 @@
 
 </div>
 
+https://github.com/user-attachments/assets/95d29cb6-6872-46ba-afcb-30cb49e331b4
+
 ---
 
 Heritage AI is an end-to-end encrypted digital safe. It protects passwords, passphrases, codes, wallet information, documents, photos, audio, video and personal instructions on your device.
