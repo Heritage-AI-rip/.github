@@ -35,7 +35,7 @@ Official builds are published on the [heritage-apps](https://github.com/Heritage
 
 ## Contact
 
-heritage.rip.ai@proton.me
+info@heritage.rip
 
 ---
 
