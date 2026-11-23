@@ -16,10 +16,10 @@ Heritage AI is an end-to-end encrypted digital safe. It protects passwords, pass
 
 **One product, two moments.**
 
-- **Personal Recovery**, while you are alive: if you lose your credentials and devices, you can regain access through a deliberately slow, verified process, with multi-channel alerts and an identity check. With one surviving authorized device, you re-enter immediately.
+- **Personal Recovery**, while you are alive: If you forget your password, Personal Recovery is the only way to recover your sealed copy, even if you still have an authorized device. Recovery requires alerts, identity verification and a security wait.
 - **Inheritance**, afterwards: you decide who receives what. Delivery to your beneficiaries is governed by a cryptographic time-lock on a decentralized network, not by a person.
 
-While your account is active, Heritage cannot read the contents of your vault.
+Heritage cannot read the contents of your vault.
 
 ## Get the apps
 
