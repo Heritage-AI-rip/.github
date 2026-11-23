@@ -4,34 +4,36 @@
 
 **Your digital assets, to the right people.**
 
-[Website](https://heritage.rip/en.html) · [Watch the film](https://heritage.rip/en.html#film) · [Apps](https://github.com/Heritage-AI-rip/heritage-apps) · [YouTube](https://www.youtube.com/@Heritage-AI-Rip)
+[Website](https://heritage.rip/en.html) · [Watch the film in 11 languages](https://heritage.rip/en.html#film) · [Apps](https://github.com/Heritage-AI-rip/heritage-apps) · [YouTube](https://www.youtube.com/@Heritage-AI-Rip)
 
 </div>
 
-https://github.com/user-attachments/assets/27b5360a-2fa3-45b7-a9a8-482b7b3f899b
+https://github.com/user-attachments/assets/36068fd1-eb7c-4ec1-b8b0-6d4b6b9d9f68
 
 ---
 
 Heritage AI is an end-to-end encrypted digital safe. It protects passwords, passphrases, codes, wallet information, documents, photos, audio, video and personal instructions on your device.
 
-**One product, two moments.**
+**How Heritage works**
 
-- **Personal Recovery**, while you are alive: if you lose your credentials and devices, you can regain access through a deliberately slow, verified process, with multi-channel alerts and an identity check. With one surviving authorized device, you re-enter immediately.
+- **Your vault today.** Store your digital assets and instructions on your device.
+
+- **Personal Recovery**, while you are alive: If you forget your password, Personal Recovery is the only way to recover your sealed copy, even if you still have an authorized device. Recovery requires alerts, identity verification and a security wait.
 - **Inheritance**, afterwards: you decide who receives what. Delivery to your beneficiaries is governed by a cryptographic time-lock on a decentralized network, not by a person.
 
-While your account is active, Heritage cannot read the contents of your vault.
+Heritage cannot read the contents of your vault.
 
 ## Get the apps
 
-Official builds are published on the [heritage-apps](https://github.com/Heritage-AI-rip/heritage-apps) repository, alongside the download page on [heritage.rip](https://heritage.rip/en.html).
+Choose your platform below. For installation notes, see [Heritage AI Apps](https://github.com/Heritage-AI-rip/heritage-apps).
 
-| Platform | Status |
+| Platform | Download or open |
 | --- | --- |
-| iOS | Available |
-| macOS | Available |
-| Android | Available |
-| Web app (PWA) | Available |
-| Windows | Available |
+| iOS | [Get Heritage for iOS](https://app.heritage.rip/download/ios) |
+| macOS | [Get Heritage for macOS](https://app.heritage.rip/download/macos) |
+| Android | [Get Heritage for Android](https://app.heritage.rip/download/android) |
+| Web app (PWA) | [Open the web app](https://app.heritage.rip/) |
+| Windows | [Get Heritage for Windows](https://app.heritage.rip/download/desktop) |
 
 ## Contact
 
