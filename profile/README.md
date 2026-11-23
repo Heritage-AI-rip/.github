@@ -4,7 +4,7 @@
 
 **Your digital assets, to the right people.**
 
-[Website](https://heritage.rip/en.html) · [Watch the film in 11 languages](https://heritage.rip/en.html#film) · [Apps](https://github.com/Heritage-AI-rip/heritage-apps) · [YouTube](https://www.youtube.com/@Heritage-AI-Rip)
+[Website](https://heritage.rip/en.html) · [Watch the film in 11 languages](https://heritage.rip/en.html#film) · [Apps](https://github.com/Heritage-AI-rip/heritage-apps) · [YouTube](https://www.youtube.com/watch?v=9nqsvSuMIoc)
 
 </div>
 
